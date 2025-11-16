@@ -1,9 +1,58 @@
-﻿  game.c
-  item.c
-  main.c
-  map.c
+﻿  main.c
+C:\Users\minju\OneDrive\바탕 화면\DD\main.c(28,17): warning C4013: 'playGame'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\main.c(30,30): warning C4013: 'determineWinner'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\main.c(32,17): warning C4013: 'drawFinalScreen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   screen.c
-  snake.c
-  sound.c
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(39,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(39,12): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(41,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(41,12): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(41,12): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(41,12): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(41,12): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(41,12): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(41,12): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(43,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(43,12): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(45,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(45,12): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(45,12): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(45,12): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(47,12): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(47,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(47,12): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(47,12): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(49,12): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(49,12): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(49,12): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(52,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(52,12): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(54,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(54,12): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(54,12): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(54,12): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(54,12): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(54,12): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(54,12): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(56,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(56,12): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(56,12): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(56,12): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(56,12): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(58,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(58,12): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(58,12): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(58,12): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(58,12): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(58,12): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(60,12): warning C4566: 유니버설 문자 이름 '\u2588'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(60,12): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(60,12): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(60,12): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(60,12): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(60,12): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(62,12): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(62,12): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\minju\OneDrive\바탕 화면\DD\screen.c(62,12): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
   코드를 생성하고 있습니다...
   CatchMyTail.vcxproj -> C:\Users\minju\OneDrive\바탕 화면\CatchMyTail\x64\Debug\CatchMyTail.exe
