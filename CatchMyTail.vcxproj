@@ -24,7 +24,7 @@
     <ClCompile Include="..\DD\main.c" />
     <ClCompile Include="..\DD\map.c" />
     <ClCompile Include="..\DD\screen.c" />
-    <ClCompile Include="..\DD\snake.c" />
+    <ClCompile Include="..\DD\player.c" />
     <ClCompile Include="..\DD\sound.c" />
   </ItemGroup>
   <ItemGroup>
@@ -33,7 +33,7 @@
     <ClInclude Include="..\DD\item.h" />
     <ClInclude Include="..\DD\map.h" />
     <ClInclude Include="..\DD\screen.h" />
-    <ClInclude Include="..\DD\snake.h" />
+    <ClInclude Include="..\DD\player.h" />
     <ClInclude Include="..\DD\sound.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
