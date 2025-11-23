@@ -3,34 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\CatchMyTail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\item.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\screen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\item.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\screen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4D1E060-2E3E-4CD2-9760-7E32A3D08A6B}|CatchMyTail.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -43,17 +43,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "game.c",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\game.c",
               "RelativeDocumentMoniker": "..\\DD\\game.c",
               "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\game.c",
               "RelativeToolTip": "..\\DD\\game.c",
-              "ViewState": "AgIAADYAAAAAAAAAAAAIwEIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-16T12:35:08.014Z",
               "IsPinned": true,
@@ -61,13 +61,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\main.c",
               "RelativeDocumentMoniker": "..\\DD\\main.c",
               "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\main.c",
               "RelativeToolTip": "..\\DD\\main.c",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwCEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-15T09:44:45.551Z",
               "IsPinned": true,
@@ -75,13 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "screen.c",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\screen.c",
               "RelativeDocumentMoniker": "..\\DD\\screen.c",
               "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\screen.c",
               "RelativeToolTip": "..\\DD\\screen.c",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwD0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-15T10:04:10.197Z",
               "IsPinned": true,
@@ -94,19 +94,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "item.c",
-              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\item.c",
-              "RelativeDocumentMoniker": "..\\DD\\item.c",
-              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\item.c",
-              "RelativeToolTip": "..\\DD\\item.c",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAIwHQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-22T09:41:49.946Z",
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.h",
+              "RelativeDocumentMoniker": "..\\DD\\player.h",
+              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.h",
+              "RelativeToolTip": "..\\DD\\player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-22T09:29:26.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "player.c",
+              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.c",
+              "RelativeDocumentMoniker": "..\\DD\\player.c",
+              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.c",
+              "RelativeToolTip": "..\\DD\\player.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-22T09:28:47.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "map.h",
+              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.h",
+              "RelativeDocumentMoniker": "..\\DD\\map.h",
+              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.h",
+              "RelativeToolTip": "..\\DD\\map.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T11:58:39.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "map.c",
+              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.c",
+              "RelativeDocumentMoniker": "..\\DD\\map.c",
+              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.c",
+              "RelativeToolTip": "..\\DD\\map.c",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAFsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-17T11:57:18.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "constants.h",
+              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\constants.h",
+              "RelativeDocumentMoniker": "..\\DD\\constants.h",
+              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\constants.h",
+              "RelativeToolTip": "..\\DD\\constants.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T10:05:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "item.h",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\item.h",
               "RelativeDocumentMoniker": "..\\DD\\item.h",
@@ -119,67 +169,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "player.h",
-              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.h",
-              "RelativeDocumentMoniker": "..\\DD\\player.h",
-              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.h",
-              "RelativeToolTip": "..\\DD\\player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-22T09:29:26.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "player.c",
-              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.c",
-              "RelativeDocumentMoniker": "..\\DD\\player.c",
-              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\player.c",
-              "RelativeToolTip": "..\\DD\\player.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-22T09:28:47.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "map.h",
-              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.h",
-              "RelativeDocumentMoniker": "..\\DD\\map.h",
-              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.h",
-              "RelativeToolTip": "..\\DD\\map.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-17T11:58:39.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "map.c",
-              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.c",
-              "RelativeDocumentMoniker": "..\\DD\\map.c",
-              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\map.c",
-              "RelativeToolTip": "..\\DD\\map.c",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAAAFsAAAAOAAAAAAAAAA==",
+              "Title": "item.c",
+              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\item.c",
+              "RelativeDocumentMoniker": "..\\DD\\item.c",
+              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\item.c",
+              "RelativeToolTip": "..\\DD\\item.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-17T11:57:18.874Z",
+              "WhenOpened": "2025-11-22T09:41:49.946Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "constants.h",
-              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\constants.h",
-              "RelativeDocumentMoniker": "..\\DD\\constants.h",
-              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\DD\\constants.h",
-              "RelativeToolTip": "..\\DD\\constants.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-15T10:05:19.255Z"
             },
             {
               "$type": "Document",
