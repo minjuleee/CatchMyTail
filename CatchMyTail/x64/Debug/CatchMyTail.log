@@ -3,8 +3,5 @@ C:\Users\minju\OneDrive\바탕 화면\DD\game.c(22,5): warning C4013: 'drawRound
 C:\Users\minju\OneDrive\바탕 화면\DD\game.c(61,21): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\minju\OneDrive\바탕 화면\DD\game.c(73,13): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\minju\OneDrive\바탕 화면\DD\game.c(74,22): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\minju\OneDrive\바탕 화면\DD\game.c(115,5): warning C4013: 'drawWinLostScreen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  player.c
-C:\Users\minju\OneDrive\바탕 화면\DD\player.c(16,5): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  코드를 생성하고 있습니다...
+C:\Users\minju\OneDrive\바탕 화면\DD\game.c(126,5): warning C4013: 'drawWinLostScreen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   CatchMyTail.vcxproj -> C:\Users\minju\OneDrive\바탕 화면\CatchMyTail\x64\Debug\CatchMyTail.exe
