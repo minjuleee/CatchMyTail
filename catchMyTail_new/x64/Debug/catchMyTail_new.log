@@ -1,4 +1,38 @@
-﻿  main.c
-C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\main.c(34,17): warning C4013: 'playGame'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\main.c(36,30): warning C4013: 'finalWinner'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  game.c
+  item.c
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\player.h(9,9): warning C4005: 'UP': 매크로 재정의
+  (소스 파일 'game.c'을(를) 컴파일하는 중)
+      C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\constants.h(31,9):
+      'UP'의 이전 정의를 참조하십시오.
+  
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\player.h(10,9): warning C4005: 'DOWN': 매크로 재정의
+  (소스 파일 'game.c'을(를) 컴파일하는 중)
+      C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\constants.h(32,9):
+      'DOWN'의 이전 정의를 참조하십시오.
+  
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\player.h(11,9): warning C4005: 'LEFT': 매크로 재정의
+  (소스 파일 'game.c'을(를) 컴파일하는 중)
+      C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\constants.h(33,9):
+      'LEFT'의 이전 정의를 참조하십시오.
+  
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\player.h(12,9): warning C4005: 'RIGHT': 매크로 재정의
+  (소스 파일 'game.c'을(를) 컴파일하는 중)
+      C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\constants.h(34,9):
+      'RIGHT'의 이전 정의를 참조하십시오.
+  
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\game.c(28,5): warning C4013: 'removeCursor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\game.c(30,22): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\game.c(50,13): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\game.c(51,32): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\game.c(109,18): warning C4013: 'finalWinner'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\item.c(31,2): warning C4013: 'textcolor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\item.c(32,2): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\item.c(33,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\item.c(139,3): warning C4013: 'showHeartScore'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  screen.c
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\screen.c(113,5): warning C4013: 'textcolor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\screen.c(118,9): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  sound.c
+  코드를 생성하고 있습니다...
+C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\screen.c(167,1): warning C4716: 'showHeartScore': 값을 반환해야 합니다.
   catchMyTail_new.vcxproj -> C:\Users\minju\OneDrive\바탕 화면\catchMyTail_new\x64\Debug\catchMyTail_new.exe

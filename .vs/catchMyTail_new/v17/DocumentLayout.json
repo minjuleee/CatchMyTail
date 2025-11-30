@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\screen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:screen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\sound.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:sound.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\sound.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:sound.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\screen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|solutionrelative:screen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C3CEF24-856B-4475-AA68-399A0353D94F}|catchMyTail_new.vcxproj|C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\item.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -66,13 +66,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\main.c",
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-28T07:48:54.638Z",
               "IsPinned": true,
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "game.c",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\game.c",
               "RelativeDocumentMoniker": "game.c",
@@ -89,18 +89,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-28T10:53:07.786Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "map.c",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\map.c",
               "RelativeDocumentMoniker": "map.c",
               "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\map.c",
               "RelativeToolTip": "map.c",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-28T14:50:01.517Z",
               "IsPinned": true,
@@ -108,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "item.h",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\item.h",
               "RelativeDocumentMoniker": "item.h",
@@ -117,12 +116,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-28T16:53:46.84Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "map.h",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\map.h",
               "RelativeDocumentMoniker": "map.h",
@@ -140,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "sound.h",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\sound.h",
               "RelativeDocumentMoniker": "sound.h",
@@ -153,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "constants.h",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\constants.h",
               "RelativeDocumentMoniker": "constants.h",
@@ -167,6 +165,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "player.c",
+              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\player.c",
+              "RelativeDocumentMoniker": "player.c",
+              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\player.c",
+              "RelativeToolTip": "player.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-28T17:32:43.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "screen.c",
+              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\screen.c",
+              "RelativeDocumentMoniker": "screen.c",
+              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\screen.c",
+              "RelativeToolTip": "screen.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-28T07:49:48.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "sound.c",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\sound.c",
               "RelativeDocumentMoniker": "sound.c",
@@ -174,25 +198,11 @@
               "RelativeToolTip": "sound.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-28T09:39:53.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T09:39:53.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "player.c",
-              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\player.c",
-              "RelativeDocumentMoniker": "player.c",
-              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\player.c",
-              "RelativeToolTip": "player.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-28T17:32:43.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "player.h",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\player.h",
               "RelativeDocumentMoniker": "player.h",
@@ -200,12 +210,11 @@
               "RelativeToolTip": "player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-30T16:56:44.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T16:56:44.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "screen.h",
               "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\screen.h",
               "RelativeDocumentMoniker": "screen.h",
@@ -213,21 +222,7 @@
               "RelativeToolTip": "screen.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-28T09:45:16.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "screen.c",
-              "DocumentMoniker": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\screen.c",
-              "RelativeDocumentMoniker": "screen.c",
-              "ToolTip": "C:\\Users\\minju\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\catchMyTail_new\\screen.c",
-              "RelativeToolTip": "screen.c",
-              "ViewState": "AgIAACYBAAAAAAAAAAAAAGsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-28T07:49:48.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T09:45:16.961Z"
             },
             {
               "$type": "Document",
@@ -239,8 +234,7 @@
               "RelativeToolTip": "item.c",
               "ViewState": "AgIAAJ0AAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-28T16:53:36.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T16:53:36.254Z"
             }
           ]
         }
